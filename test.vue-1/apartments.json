@@ -1,0 +1,487 @@
+[
+  {
+    "id": 10,
+    "name": "Апартаменты Томск Тверская №12",
+    "address": "Томск Тверская №12",
+    "sum": 2550,
+    "isPets": false,
+    "isKitchen": true,
+    "isWifi": false,
+    "bed": 1,
+    "bedroom": 1,
+    "coords": "57.000603, 86.172358",
+    "adults": 2,
+    "child": 0,
+    "description": "Шикарный комплекс",
+    "categories": [
+      {
+        "id": "1ca564e3-9537-4243-8e20-916db3064b0c",
+        "galleryImages": [
+          {
+            "id": "e93e6d3d-aaca-4d10-a596-a9dd4a05bda7",
+            "viewInGallery": true,
+            "ord": 0
+          },
+          {
+            "id": "d8b2d608-2f4e-4894-b21c-1be784459131",
+            "viewInGallery": true,
+            "ord": 1
+          }
+        ],
+        "images": [
+          "e93e6d3d-aaca-4d10-a596-a9dd4a05bda7",
+          "d8b2d608-2f4e-4894-b21c-1be784459131"
+        ],
+        "name": "Категория №1",
+        "nameEn": "Standard",
+        "addressId": 10,
+        "address": "Томск Тверская №12",
+        "comment": "",
+        "freeFlatCount": 1,
+        "totalFlatCount": 1,
+        "tarifs": [
+          {
+            "tarifId": "82a107c7-34be-4dd6-ba53-9263c8d15cc8",
+            "tarifName": "Тестовый тариф 1",
+            "tarifDescription": "Тестовый тариф ",
+            "tarifCancelationRule": "При отмене бронирования за 24 часа возвращается 100%. При отмене менее чем за 24 часа возврат 0%.",
+            "price": 3000
+          },
+          {
+            "tarifId": "31478171-f850-4847-bd6b-623effba05f6",
+            "tarifName": "Тариф для мобильного приложения",
+            "tarifDescription": "Тариф для мобильного приложения со скидкой",
+            "tarifCancelationRule": "При отмене бронирования за 24 часа возвращается 100%. При отмене менее чем за 24 часа возврат 10%.",
+            "price": 2850
+          },
+          {
+            "tarifId": "0320356d-e73e-4a41-ae53-35026e33a8f0",
+            "tarifName": "Невозвратный для мобильного приложения",
+            "tarifDescription": "Невозвратный для мобильного приложения",
+            "tarifCancelationRule": "При отмене бронирования оплаченная сумма не возвращается",
+            "price": 2550
+          }
+        ],
+        "parameters": {
+          "guestCount": 2,
+          "totalArea": 40,
+          "livingArea": 25,
+          "livingRooms": 1,
+          "bedRooms": 1,
+          "beds": 1,
+          "sofaBeds": 0,
+          "bathRooms": 1,
+          "lift": false,
+          "description": null,
+          "descriptionEn": null,
+          "pricePerNight": 3000,
+          "smokingAllowed": null,
+          "animalAllowed": null,
+          "activityAllowed": null,
+          "wiFi": 0,
+          "parking": 0,
+          "videoControl": 0,
+          "checkinTime": "14:00:00",
+          "checkoutTime": "11:00:00",
+          "children": 0,
+          "washingMachine": false,
+          "airConditioning": false,
+          "kitchen": false,
+          "towels": false,
+          "hairDryer": false,
+          "tv": false
+        },
+        "categoryClass": "",
+        "hasFreeRooms": true,
+        "loyaltyPercent": 0
+      }
+    ],
+    "hasWashingMachine": false,
+    "apartmentLocation": "Тестовые апартаменты",
+    "l1": 57.000603,
+    "l2": 86.172358,
+    "complexDescription": "Шикарный комплекс",
+    "wiFiName": null,
+    "wiFiPwd": null,
+    "checkIn": "14:00:00",
+    "checkOut": "11:00:00",
+    "floor": 0,
+    "hasFreeRooms": true
+  },
+  {
+    "id": 13,
+    "name": "Апартаменты Томск Киевская №93",
+    "address": "Томск Киевская №93",
+    "sum": 4675,
+    "isPets": false,
+    "isKitchen": true,
+    "isWifi": false,
+    "bed": 2,
+    "bedroom": 2,
+    "coords": "56.470141, 84.975201",
+    "adults": 3,
+    "child": 0,
+    "description": null,
+    "categories": [
+      {
+        "id": "a09c6a8d-f287-4b18-9806-4f8b8bb31fcf",
+        "galleryImages": [
+          {
+            "id": "0e6ac7b9-fd27-433d-9c22-0108e88bec12",
+            "viewInGallery": false,
+            "ord": 0
+          },
+          {
+            "id": "dad23b9c-7836-4a92-a836-fed62c0560b1",
+            "viewInGallery": false,
+            "ord": 1
+          },
+          {
+            "id": "a624f26f-0416-4276-82de-dd7da4ba8be6",
+            "viewInGallery": false,
+            "ord": 2
+          },
+          {
+            "id": "a1628927-57a0-4b8d-a963-02428e9872c9",
+            "viewInGallery": false,
+            "ord": 3
+          },
+          {
+            "id": "a30b5472-f75f-4f86-b3a5-32804019be8b",
+            "viewInGallery": false,
+            "ord": 4
+          },
+          {
+            "id": "efff8f38-2aab-4e05-a484-3dc5d5332554",
+            "viewInGallery": true,
+            "ord": 5
+          },
+          {
+            "id": "33a30335-b2cc-4e25-8baf-50daa5497ac1",
+            "viewInGallery": true,
+            "ord": 6
+          },
+          {
+            "id": "31885f64-4d1a-4015-acfb-1168aba1cabe",
+            "viewInGallery": true,
+            "ord": 7
+          },
+          {
+            "id": "ce825fbf-48a7-44e1-b4b9-e1c292a13f98",
+            "viewInGallery": true,
+            "ord": 8
+          },
+          {
+            "id": "610ed7c8-29b2-4506-a7ef-56af79cb5c10",
+            "viewInGallery": true,
+            "ord": 9
+          },
+          {
+            "id": "69f8745f-669e-4f56-b75d-ea748fb71a2f",
+            "viewInGallery": true,
+            "ord": 10
+          },
+          {
+            "id": "08da8677-ba03-4b26-8f3a-06aa5163a05f",
+            "viewInGallery": true,
+            "ord": 11
+          },
+          {
+            "id": "bf5b23a5-38c4-4733-8ea6-3aff6d57bd5a",
+            "viewInGallery": true,
+            "ord": 12
+          },
+          {
+            "id": "ea9a11c5-a5f3-47dc-9155-a8f4fdabc157",
+            "viewInGallery": true,
+            "ord": 13
+          },
+          {
+            "id": "78ea1897-2046-4bfe-8e5c-0433870cd80f",
+            "viewInGallery": true,
+            "ord": 14
+          },
+          {
+            "id": "9741abcd-3102-4534-807a-a27a134c3e5c",
+            "viewInGallery": false,
+            "ord": 15
+          },
+          {
+            "id": "552e0770-e50a-4372-a293-cf1435087e99",
+            "viewInGallery": true,
+            "ord": 16
+          },
+          {
+            "id": "6761b98c-921b-4762-873b-5727ed54a7ac",
+            "viewInGallery": true,
+            "ord": 17
+          },
+          {
+            "id": "3ef61de0-f6ff-4764-a37d-3c0a5114b25b",
+            "viewInGallery": true,
+            "ord": 18
+          },
+          {
+            "id": "c47178cf-cb16-4e85-96a5-9392df11a456",
+            "viewInGallery": true,
+            "ord": 19
+          },
+          {
+            "id": "5b954c3d-5225-456f-ad70-3d763fea6d9b",
+            "viewInGallery": true,
+            "ord": 20
+          },
+          {
+            "id": "e309c750-56fd-4040-a283-ae2b8c245cae",
+            "viewInGallery": true,
+            "ord": 21
+          },
+          {
+            "id": "7bfc0ca4-fa09-40d3-9333-00ed7113a599",
+            "viewInGallery": true,
+            "ord": 22
+          },
+          {
+            "id": "4931d73f-f465-415c-9757-50aeac04d787",
+            "viewInGallery": true,
+            "ord": 23
+          },
+          {
+            "id": "9fb361b1-a142-4dac-a413-7c9353712bf3",
+            "viewInGallery": true,
+            "ord": 24
+          },
+          {
+            "id": "0b778195-650b-4808-a43f-9f97ba445783",
+            "viewInGallery": true,
+            "ord": 25
+          },
+          {
+            "id": "49214d9b-a1bf-4e82-829f-9dbdc917fdb1",
+            "viewInGallery": true,
+            "ord": 26
+          },
+          {
+            "id": "bf9d6247-a4a6-4505-a37c-7c1049e27fc2",
+            "viewInGallery": true,
+            "ord": 27
+          },
+          {
+            "id": "4a6cd1f5-33df-41b0-b428-acc08b87da66",
+            "viewInGallery": true,
+            "ord": 28
+          },
+          {
+            "id": "4cee6389-a225-446d-a363-56413c92b3c2",
+            "viewInGallery": true,
+            "ord": 29
+          }
+        ],
+        "images": [
+          "0e6ac7b9-fd27-433d-9c22-0108e88bec12",
+          "dad23b9c-7836-4a92-a836-fed62c0560b1",
+          "a624f26f-0416-4276-82de-dd7da4ba8be6",
+          "a1628927-57a0-4b8d-a963-02428e9872c9",
+          "a30b5472-f75f-4f86-b3a5-32804019be8b",
+          "efff8f38-2aab-4e05-a484-3dc5d5332554",
+          "33a30335-b2cc-4e25-8baf-50daa5497ac1",
+          "31885f64-4d1a-4015-acfb-1168aba1cabe",
+          "ce825fbf-48a7-44e1-b4b9-e1c292a13f98",
+          "610ed7c8-29b2-4506-a7ef-56af79cb5c10",
+          "69f8745f-669e-4f56-b75d-ea748fb71a2f",
+          "08da8677-ba03-4b26-8f3a-06aa5163a05f",
+          "bf5b23a5-38c4-4733-8ea6-3aff6d57bd5a",
+          "ea9a11c5-a5f3-47dc-9155-a8f4fdabc157",
+          "78ea1897-2046-4bfe-8e5c-0433870cd80f",
+          "9741abcd-3102-4534-807a-a27a134c3e5c",
+          "552e0770-e50a-4372-a293-cf1435087e99",
+          "6761b98c-921b-4762-873b-5727ed54a7ac",
+          "3ef61de0-f6ff-4764-a37d-3c0a5114b25b",
+          "c47178cf-cb16-4e85-96a5-9392df11a456",
+          "5b954c3d-5225-456f-ad70-3d763fea6d9b",
+          "e309c750-56fd-4040-a283-ae2b8c245cae",
+          "7bfc0ca4-fa09-40d3-9333-00ed7113a599",
+          "4931d73f-f465-415c-9757-50aeac04d787",
+          "9fb361b1-a142-4dac-a413-7c9353712bf3",
+          "0b778195-650b-4808-a43f-9f97ba445783",
+          "49214d9b-a1bf-4e82-829f-9dbdc917fdb1",
+          "bf9d6247-a4a6-4505-a37c-7c1049e27fc2",
+          "4a6cd1f5-33df-41b0-b428-acc08b87da66",
+          "4cee6389-a225-446d-a363-56413c92b3c2"
+        ],
+        "name": "Трёхкомнатные",
+        "nameEn": "Category #2",
+        "addressId": 13,
+        "address": "Томск Киевская №93",
+        "comment": "Категории трехкомнатного размещения",
+        "freeFlatCount": 0,
+        "totalFlatCount": 1,
+        "tarifs": [
+          {
+            "tarifId": "82a107c7-34be-4dd6-ba53-9263c8d15cc8",
+            "tarifName": "Тестовый тариф 1",
+            "tarifDescription": "Тестовый тариф ",
+            "tarifCancelationRule": "При отмене бронирования за 24 часа возвращается 100%. При отмене менее чем за 24 часа возврат 0%.",
+            "price": 5500
+          },
+          {
+            "tarifId": "31478171-f850-4847-bd6b-623effba05f6",
+            "tarifName": "Тариф для мобильного приложения",
+            "tarifDescription": "Тариф для мобильного приложения со скидкой",
+            "tarifCancelationRule": "При отмене бронирования за 24 часа возвращается 100%. При отмене менее чем за 24 часа возврат 10%.",
+            "price": 5225
+          },
+          {
+            "tarifId": "0320356d-e73e-4a41-ae53-35026e33a8f0",
+            "tarifName": "Невозвратный для мобильного приложения",
+            "tarifDescription": "Невозвратный для мобильного приложения",
+            "tarifCancelationRule": "При отмене бронирования оплаченная сумма не возвращается",
+            "price": 4675
+          }
+        ],
+        "parameters": {
+          "guestCount": 3,
+          "totalArea": 136,
+          "livingArea": 120,
+          "livingRooms": 3,
+          "bedRooms": 2,
+          "beds": 2,
+          "sofaBeds": 1,
+          "bathRooms": 1,
+          "lift": false,
+          "description": null,
+          "descriptionEn": null,
+          "pricePerNight": 6500,
+          "smokingAllowed": false,
+          "animalAllowed": false,
+          "activityAllowed": false,
+          "wiFi": 1,
+          "parking": 3,
+          "videoControl": 0,
+          "checkinTime": "14:00:00",
+          "checkoutTime": "12:00:00",
+          "children": 0,
+          "washingMachine": false,
+          "airConditioning": true,
+          "kitchen": false,
+          "towels": false,
+          "hairDryer": false,
+          "tv": false
+        },
+        "categoryClass": "Категории трехкомнатного размещения",
+        "hasFreeRooms": false,
+        "loyaltyPercent": 0
+      },
+      {
+        "id": "ed8f1a1c-f0d9-4d07-aab5-1b3b4ed24c98",
+        "galleryImages": [
+          {
+            "id": "75fd7d42-4db9-4d17-afdf-6eeec8490f9e",
+            "viewInGallery": true,
+            "ord": 0
+          },
+          {
+            "id": "a22762ee-d9d9-4c89-ae86-d4ab229c86f3",
+            "viewInGallery": true,
+            "ord": 1
+          },
+          {
+            "id": "6ea080d5-d72d-4981-87f1-ff27af097814",
+            "viewInGallery": true,
+            "ord": 2
+          },
+          {
+            "id": "c821a913-e2ec-4a01-8dbf-ae96829ae4ab",
+            "viewInGallery": true,
+            "ord": 3
+          },
+          {
+            "id": "1baf1984-e51b-453c-b353-a1dd7a6cc2f8",
+            "viewInGallery": true,
+            "ord": 4
+          }
+        ],
+        "images": [
+          "75fd7d42-4db9-4d17-afdf-6eeec8490f9e",
+          "a22762ee-d9d9-4c89-ae86-d4ab229c86f3",
+          "6ea080d5-d72d-4981-87f1-ff27af097814",
+          "c821a913-e2ec-4a01-8dbf-ae96829ae4ab",
+          "1baf1984-e51b-453c-b353-a1dd7a6cc2f8"
+        ],
+        "name": "Тест Категория №1",
+        "nameEn": "Category #1",
+        "addressId": 13,
+        "address": "Томск Киевская №93",
+        "comment": "Категория основная",
+        "freeFlatCount": 0,
+        "totalFlatCount": 3,
+        "tarifs": [
+          {
+            "tarifId": "82a107c7-34be-4dd6-ba53-9263c8d15cc8",
+            "tarifName": "Тестовый тариф 1",
+            "tarifDescription": "Тестовый тариф ",
+            "tarifCancelationRule": "При отмене бронирования за 24 часа возвращается 100%. При отмене менее чем за 24 часа возврат 0%.",
+            "price": 6000
+          },
+          {
+            "tarifId": "31478171-f850-4847-bd6b-623effba05f6",
+            "tarifName": "Тариф для мобильного приложения",
+            "tarifDescription": "Тариф для мобильного приложения со скидкой",
+            "tarifCancelationRule": "При отмене бронирования за 24 часа возвращается 100%. При отмене менее чем за 24 часа возврат 10%.",
+            "price": 5700
+          },
+          {
+            "tarifId": "0320356d-e73e-4a41-ae53-35026e33a8f0",
+            "tarifName": "Невозвратный для мобильного приложения",
+            "tarifDescription": "Невозвратный для мобильного приложения",
+            "tarifCancelationRule": "При отмене бронирования оплаченная сумма не возвращается",
+            "price": 5100
+          }
+        ],
+        "parameters": {
+          "guestCount": 2,
+          "totalArea": 60,
+          "livingArea": 44,
+          "livingRooms": 2,
+          "bedRooms": 2,
+          "beds": 2,
+          "sofaBeds": 0,
+          "bathRooms": 1,
+          "lift": false,
+          "description": null,
+          "descriptionEn": null,
+          "pricePerNight": 6000,
+          "smokingAllowed": true,
+          "animalAllowed": true,
+          "activityAllowed": true,
+          "wiFi": 1,
+          "parking": 0,
+          "videoControl": 0,
+          "checkinTime": "14:00:00",
+          "checkoutTime": "12:00:00",
+          "children": 0,
+          "washingMachine": false,
+          "airConditioning": true,
+          "kitchen": true,
+          "towels": true,
+          "hairDryer": false,
+          "tv": false
+        },
+        "categoryClass": "Категория основная",
+        "hasFreeRooms": false,
+        "loyaltyPercent": 0
+      }
+    ],
+    "hasWashingMachine": false,
+    "apartmentLocation": "Апартаменты на Киевской, 93",
+    "l1": 56.470141,
+    "l2": 84.975201,
+    "complexDescription": null,
+    "wiFiName": null,
+    "wiFiPwd": null,
+    "checkIn": "14:00:00",
+    "checkOut": "12:00:00",
+    "floor": 0,
+    "hasFreeRooms": false
+  }
+]
